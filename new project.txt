@@ -9,4 +9,4 @@ Example of Title tag
 <h1>hello from header 1</h1> 
 </Body>  
 </Html>  
-changes have been made by the aprtner
+changes have been made by the aprtner.
